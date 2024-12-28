@@ -26179,7 +26179,7 @@ var $async$aEB=A.C(function(a,b){if(a===1)return A.y(b,r)
 while(true)switch(s){case 0:if($.Z==null)A.ar0()
 $.Z.toString
 s=2
-return A.F(A.ap6("",""),$async$aEB)
+return A.F(A.ap6("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZyZ2p6dm1hbXBzbWJ1ZXFoaWttIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzUzNzc4MzYsImV4cCI6MjA1MDk1MzgzNn0.4Lg1MF6ipRPWxGlFdRzX6YyIImD15GdK8sGaU4E28Hg","https://vrgjzvmampsmbueqhikm.supabase.co"),$async$aEB)
 case 2:if($.Z==null)A.ar0()
 q=$.Z
 q.toString
